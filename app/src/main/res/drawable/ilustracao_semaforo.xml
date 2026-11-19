@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Ilustração da ocorrência gerada a partir do ícone Material "traffic" (Apache 2.0). -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="320dp"
+    android:height="200dp"
+    android:viewportWidth="320"
+    android:viewportHeight="200">
+    <path android:fillColor="#991B1B" android:pathData="M0,0h320v200h-320z" />
+    <path android:fillColor="#DC2626" android:fillAlpha="0.55" android:pathData="M250,-40a110,110 0 1,0 0.1,0z" />
+    <path android:fillColor="#DC2626" android:fillAlpha="0.35" android:pathData="M30,150a70,70 0 1,0 0.1,0z" />
+    <path android:fillColor="#000000" android:fillAlpha="0.18" android:pathData="M0,170 Q80,150 160,165 T320,160 V200 H0z" />
+    <path android:fillColor="#FFFFFF" android:fillAlpha="0.16" android:pathData="M98.0,94.0a62,62 0 1,0 124,0a62,62 0 1,0 -124,0z" />
+    <group android:translateX="116.8" android:translateY="50.8" android:scaleX="3.6" android:scaleY="3.6">
+        <path android:fillColor="#FFFFFF" android:pathData="M20 10h-3V8.86c1.72-.45 3-2 3-3.86h-3V4c0-.55-.45-1-1-1H8c-.55 0-1 .45-1 1v1H4c0 1.86 1.28 3.41 3 3.86V10H4c0 1.86 1.28 3.41 3 3.86V15H4c0 1.86 1.28 3.41 3 3.86V20c0 .55.45 1 1 1h8c.55 0 1-.45 1-1v-1.14c1.72-.45 3-2 3-3.86h-3v-1.14c1.72-.45 3-2 3-3.86zm-8 9a2 2 0 1 1-.001-3.999A2 2 0 0 1 12 19zm0-5a2 2 0 1 1-.001-3.999A2 2 0 0 1 12 14zm0-5a2 2 0 0 1-2-2c0-1.11.89-2 2-2a2 2 0 1 1 0 4z" />
+    </group>
+</vector>

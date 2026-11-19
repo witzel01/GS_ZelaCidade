@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Ilustração da ocorrência gerada a partir do ícone Material "forest" (Apache 2.0). -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="320dp"
+    android:height="200dp"
+    android:viewportWidth="320"
+    android:viewportHeight="200">
+    <path android:fillColor="#312E81" android:pathData="M0,0h320v200h-320z" />
+    <path android:fillColor="#4338CA" android:fillAlpha="0.55" android:pathData="M250,-40a110,110 0 1,0 0.1,0z" />
+    <path android:fillColor="#4338CA" android:fillAlpha="0.35" android:pathData="M30,150a70,70 0 1,0 0.1,0z" />
+    <path android:fillColor="#000000" android:fillAlpha="0.18" android:pathData="M0,170 Q80,150 160,165 T320,160 V200 H0z" />
+    <path android:fillColor="#FFFFFF" android:fillAlpha="0.16" android:pathData="M98.0,94.0a62,62 0 1,0 124,0a62,62 0 1,0 -124,0z" />
+    <group android:translateX="116.8" android:translateY="50.8" android:scaleX="3.6" android:scaleY="3.6">
+        <path android:fillColor="#C7D2FE" android:pathData="M16 12 9 2 2 12h1.86L0 18h7v4h4v-4h7l-3.86-6z" />
+        <path android:fillColor="#C7D2FE" android:pathData="M20.14 12H22L15 2l-2.39 3.41L17.92 13h-1.95l3.22 5H24zM13 19h4v3h-4z" />
+    </group>
+</vector>

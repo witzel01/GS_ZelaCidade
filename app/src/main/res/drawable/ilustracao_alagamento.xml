@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Ilustração da ocorrência gerada a partir do ícone Material "flood" (Apache 2.0). -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="320dp"
+    android:height="200dp"
+    android:viewportWidth="320"
+    android:viewportHeight="200">
+    <path android:fillColor="#0E7490" android:pathData="M0,0h320v200h-320z" />
+    <path android:fillColor="#0891B2" android:fillAlpha="0.55" android:pathData="M250,-40a110,110 0 1,0 0.1,0z" />
+    <path android:fillColor="#0891B2" android:fillAlpha="0.35" android:pathData="M30,150a70,70 0 1,0 0.1,0z" />
+    <path android:fillColor="#000000" android:fillAlpha="0.18" android:pathData="M0,170 Q80,150 160,165 T320,160 V200 H0z" />
+    <path android:fillColor="#FFFFFF" android:fillAlpha="0.16" android:pathData="M98.0,94.0a62,62 0 1,0 124,0a62,62 0 1,0 -124,0z" />
+    <group android:translateX="116.8" android:translateY="50.8" android:scaleX="3.6" android:scaleY="3.6">
+        <path android:fillColor="#FFFFFF" android:pathData="M18.67 19c-1.95 0-2.09 1-3.33 1-1.19 0-1.42-1-3.33-1-1.95 0-2.1 1-3.34 1-1.24 0-1.38-1-3.33-1-1.95 0-2.1 1-3.34 1v2c1.95 0 2.11-1 3.34-1 1.24 0 1.38 1 3.33 1 1.95 0 2.1-1 3.34-1 1.22 0 1.4 1 3.33 1 1.93 0 2.1-1 3.33-1 1.22 0 1.4 1 3.33 1v-2c-1.24 0-1.38-1-3.33-1zm-9.99-1.5c1.95 0 2.09-1 3.33-1 1.19 0 1.42 1 3.33 1 1.95 0 2.09-1 3.33-1 1.19 0 1.4.98 3.31 1v-2c-.63 0-1-.28-1.48-.55l-2.02-7.53 2.09.85.74-1.86L9.78 2 2 11.61l1.57 1.23 1.39-1.78.93 3.48c-.18-.02-.35-.05-.56-.05-1.95 0-2.09 1-3.33 1v2c1.9 0 2.17-1 3.35-1 1.19.01 1.42 1.01 3.33 1.01zm5.36-7.32 1.42 5.31c-1.34.09-1.47-.99-3.47-.99-.36 0-.65.04-.91.1l-.91-3.39 3.87-1.03z" />
+    </group>
+</vector>
